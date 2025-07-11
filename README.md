@@ -1,4 +1,4 @@
-## Hi there 👋 i am Israel
+## Hi there 👋 i am Israel Jimenez Quinteros el apodo o nombre con el que estoy en los juegos es sincha 
 
 
 <!--
