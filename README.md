@@ -8,6 +8,11 @@ Mi código funciona... no sé por qué, pero funciona. XD 🫠😅
 
 ![images (2)](https://github.com/user-attachments/assets/0c5e4d8c-ffe5-4188-a17d-92e0c92f2066)
 
+📊 Mis estadísticas en GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=isra-jq&show_icons=true&theme=radical)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isra-jq&layout=compact&theme=radical)
+
 <!--<img width="624" height="630" alt="incremento" src="https://github.com/user-attachments/assets/d2026d1b-312c-4de7-98b8-c2754da36818" /> 
 
 
