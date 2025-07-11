@@ -4,9 +4,9 @@ actualmente soy estudiante de la carrera de 🤓🖱️ ingemieria en sistemas �
 Mi código funciona... no sé por qué, pero funciona. XD 🫠😅  
 99 errores en el código... saco uno y ahora hay 117 :V🤡
 
-<img width="624" height="630" alt="incremento" src="https://github.com/user-attachments/assets/d2026d1b-312c-4de7-98b8-c2754da36818" />
+<img width="624" height="630" alt="incremento" src="https://github.com/user-attachments/assets/d2026d1b-312c-4de7-98b8-c2754da36818" />  ![images (1)](https://github.com/user-attachments/assets/10d1d243-f6e3-48b9-99d9-d43097074fe5)
 
-![images (1)](https://github.com/user-attachments/assets/10d1d243-f6e3-48b9-99d9-d43097074fe5)
+
 
 <!--
 **isra-jq/isra-jq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
