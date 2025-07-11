@@ -3,7 +3,8 @@ el apodo  con el que estoy en los🕹️🎮 juegos es sincha 🕹️🎮,
 actualmente soy estudiante de la carrera de 🤓🖱️ ingemieria en sistemas 🖱️🤓
 Mi código funciona... no sé por qué, pero funciona. XD 🫠😅  
 99 errores en el código... saco uno y ahora hay 117 :V🤡
-![Descripción de la imagen](https://m.cuantarazon.com/1216327/memes-dolorosamente-familiares-sobre-programacion)
+![Descripción de la imagen](  ![download](https://github.com/user-attachments/assets/7a1f87b4-b6db-48c2-86df-b226ac4e8666)
+ )
 
 
 <!--
