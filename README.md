@@ -1,4 +1,5 @@
-## Hi there 👋 i am Israel Jimenez Quinteros el apodo  con el que estoy en los🕹️🎮 juegos es sincha 🕹️🎮,actualmente soy estudiante de la carrera de 🤓🖱️ ingemieria en sistemas 🖱️🤓
+## Hi there 👋 i am Israel Jimenez Quinteros el apodo  con el que estoy en los🕹️🎮 juegos es sincha 🕹️🎮,
+actualmente soy estudiante de la carrera de 🤓🖱️ ingemieria en sistemas 🖱️🤓
 "Mi código funciona... no sé por qué, pero funciona.XD"
 "99 errores en el código... saco uno y ahora hay 117. :V"
 
